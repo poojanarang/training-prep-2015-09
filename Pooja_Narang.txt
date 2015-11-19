@@ -1,0 +1,3 @@
+I am a postdoc working in the area of Genomics and Bioinformatics.
+I use Python, R and bash scripting to perform data analysis.
+I am looking to help other, broaden my skills, and have more skill for teaching student inside my work.
